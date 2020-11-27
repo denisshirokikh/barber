@@ -1,0 +1,13 @@
+.intro {
+  background-image: url('../img/main.PNG');
+  background-size: 1265px;
+  background-repeat: no-repeat;
+  background-attachment: scroll, fixed;
+  background-position: center;
+  border-radius: 3px;
+
+  color: #8b8484;
+  padding: 60px;
+  margin-top: 90px;
+}
+
