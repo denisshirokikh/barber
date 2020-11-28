@@ -66,6 +66,7 @@ body {
 }
 
 .team-intro {
+  background-color:  #f6f4f4;
   margin-top: 10px;
   border-radius: 3px;
   border: 1px solid darkgray;
@@ -87,4 +88,8 @@ input {
   margin: auto;
   display: block;
   position: center;
+}
+
+.featured {
+  background-color:  #f6f4f4
 }
