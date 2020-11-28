@@ -93,3 +93,7 @@ input {
 .featured {
   background-color:  #f6f4f4
 }
+
+.opacitive {
+  opacity: 0.70;
+}
