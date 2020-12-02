@@ -12,3 +12,8 @@
   margin-right: 30px;
 }
 
+@media (max-width: 640px) {
+  .intro {
+    margin-top: 0;
+  }
+}
